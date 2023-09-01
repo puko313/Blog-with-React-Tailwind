@@ -1,38 +1,42 @@
-Contribution: 2023-01-19 20:00
+# `This is blog project created by Hans Andersson`
 
-Contribution: 2023-01-20 20:00
+## `Features`
 
-Contribution: 2023-01-20 20:01
+- simple authentication funtionality such as sign up, sign in, sign out.
+- flexible dashboard functionality showing all list of blogs whoever he is.
+- detail page functionality for a authenticated user.
+- change and update functionality in the case of authenticated user.
+- watches count by using watche button.
+- useful alerts functionality such as "invalid user" or "successfully registered!" and so on.
+- all data saved in mongoDB...
 
-Contribution: 2023-01-24 20:00
+## Available Scripts
 
-Contribution: 2023-01-26 20:00
+In the project directory, you can run:
 
-Contribution: 2023-01-26 20:01
+### `npm start`
 
-Contribution: 2023-01-30 20:00
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2023-01-31 20:00
+### `npm run build`
 
-Contribution: 2023-01-31 20:01
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2023-01-31 20:02
+### `npm run server`
 
-Contribution: 2023-01-31 20:03
+Runs the app in the development mode.\
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
-Contribution: 2023-01-31 20:04
+to start project easily :
 
-Contribution: 2023-02-02 20:00
+### `npm run dev`
 
-Contribution: 2023-02-02 20:01
+start frontend server and backend server concurrently.
 
-Contribution: 2023-02-02 20:02
+## Learn More
 
-Contribution: 2023-02-08 20:00
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2023-02-08 20:01
-
-Contribution: 2023-02-08 20:02
-
-Contribution: 2023-02-08 20:03
-
+To learn React, check out the [React documentation](https://reactjs.org/).
